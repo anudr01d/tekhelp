@@ -2,7 +2,7 @@
 
 - [Expense Management](https://fsprd.allegisgroup.com/psp/FSPRD/EMPLOYEE/ERP/)
 
-- [Payroll Management](www.fcs-inc.com/fcspayroll)
+- [Payroll Management](http://www.fcs-inc.com/fcspayroll)
 
 - [Leave Management](http://115.111.229.142/TEKInternalApps/UserLogin.aspx)
 
