@@ -1,31 +1,19 @@
-## Welcome to TEKsystems help page
+## Welcome to TEKsystems help page.
 
-![TEKsystems](https://www.teksystems.com/-/media/FPO-image-750x350-logo.png)
+- [Expense Management](https://fsprd.allegisgroup.com/psp/FSPRD/EMPLOYEE/ERP/)
 
-- Expenses etc
-[https://fsprd.allegisgroup.com/psp/FSPRD/EMPLOYEE/ERP/](https://fsprd.allegisgroup.com/psp/FSPRD/EMPLOYEE/ERP/)
+- [Payroll Management](fcs-inc.com/fcspayroll)
 
-- Payroll
-fcs-inc.com/fcspayroll
+- [Leave Management](http://115.111.229.142/TEKInternalApps/UserLogin.aspx)
 
-- Leave management
-http://115.111.229.142/TEKInternalApps/UserLogin.aspx
+- [Time Sheets](hrprd.allegisgroup.com/psp/HRPRD/EMPLOYEE/HRMS/c/ROLE_EMPLOYEE.TL_MSS_EE_SRCH_PRD.GBL?&cmd=login&languageCd=ENG)
 
-- Time entry
-hrprd.allegisgroup.com/psp/HRPRD/EMPLOYEE/HRMS/c/ROLE_EMPLOYEE.TL_MSS_EE_SRCH_PRD.GBL?&cmd=login&languageCd=ENG
+- [Catalyst(LMS/Performance review etc)](plms.allegisgroup.com)
 
-- Catalyst (LMS/Performance review etc)
-plms.allegisgroup.com
+- [Cisco Webex] (http://agci.webex.com/meet/__userid__)
 
-- Cisco webex
-http://agci.webex.com/meet/__userid__
+- [HDFC card login (Food plus and Forex card)](https://hdfcbank.com/assets/popuppages/Prepaid-card.htm)
 
-- HDFC card login (Food plus and Forex card)
-https://hdfcbank.com/assets/popuppages/Prepaid-card.htm
+- [Slack(MSC)](https://teksystems.slack.com)
 
-
-- Slack(MSC)
-https://teksystems.slack.com
-
-- Microsoft Teams
-https://teams.microsoft.com
+- [Microsoft Teams](https://teams.microsoft.com)
