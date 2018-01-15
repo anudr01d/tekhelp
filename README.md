@@ -1,19 +1,19 @@
 ## Welcome to TEKsystems help page.
 
-- [Expense Management](https://fsprd.allegisgroup.com/psp/FSPRD/EMPLOYEE/ERP/){:target="_blank"}
+- <a href="https://fsprd.allegisgroup.com/psp/FSPRD/EMPLOYEE/ERP/" target="_blank">Expense Management</a>
 
-- [Payroll Management](http://www.fcs-inc.com/fcspayroll){:target="_blank"}
+- <a href="http://www.fcs-inc.com/fcspayroll" target="_blank">Payroll Management</a>
 
-- [Leave Management](http://115.111.229.142/TEKInternalApps/UserLogin.aspx){:target="_blank"}
+- <a href="http://115.111.229.142/TEKInternalApps/UserLogin.aspx" target="_blank">Leave Management</a>
 
-- [Time Sheets](hrprd.allegisgroup.com/psp/HRPRD/EMPLOYEE/HRMS/c/ROLE_EMPLOYEE.TL_MSS_EE_SRCH_PRD.GBL?&cmd=login&languageCd=ENG){:target="_blank"}
+- <a href="hrprd.allegisgroup.com/psp/HRPRD/EMPLOYEE/HRMS/c/ROLE_EMPLOYEE.TL_MSS_EE_SRCH_PRD.GBL?&cmd=login&languageCd=ENG" target="_blank">Time Sheets</a>
 
-- [Catalyst(LMS/Performance review etc)](plms.allegisgroup.com){:target="_blank"}
+- <a href="plms.allegisgroup.com" target="_blank">Catalyst(LMS/Performance review etc</a>
 
-- [Cisco Webex] (http://agci.webex.com/meet/__userid__)
+- Cisco Webex - http://agci.webex.com/meet/__userid_
 
-- [HDFC card login (Food plus and Forex card)](https://hdfcbank.com/assets/popuppages/Prepaid-card.htm){:target="_blank"}
+- <a href="https://hdfcbank.com/assets/popuppages/Prepaid-card.htm" target="_blank">HDFC card login (Food plus and Forex card)</a>
 
-- [Slack(MSC)](https://teksystems.slack.com){:target="_blank"}
+- <a href="https://teksystems.slack.com" target="_blank">Slack(MSC)</a>
 
-- [Microsoft Teams](https://teams.microsoft.com){:target="_blank"}
+- <a href="https://teams.microsoft.com" target="_blank">Microsoft Teams</a>
